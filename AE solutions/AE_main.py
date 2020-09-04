@@ -417,6 +417,8 @@ class ProfileScreen(Screen):
         except Exception as e:
             print(e)
         #self.ids.gmail_n_name=""
+    def any(self):
+        pass
 
 
 class HomeScreen(Screen):
